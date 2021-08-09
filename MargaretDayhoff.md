@@ -3,7 +3,11 @@
 
 Margaret Oakley Dayhoff nació el 11 de marzo de 1925. Estudió su doctorado en química cuántica en la Universidad de Columbia. Dedicó su carrera a la aplicación de tecnologías computacionales en biología y medicina, principalmente mediante la creación de bases de datos de proteínas y ácidos nucleicos, así como de las herramientas para acceder a tales bases de datos.
 
-![alt text](https://github.com/solnavss/GenomicaFC_2021-2/blob/main/img_mdayhoff.jpeg)
+<p align="center">
+  <img src="https://github.com/solnavss/GenomicaFC_2021-2/blob/main/img_mdayhoff.jpeg" alt="Sublime's custom image"/>
+</p>
+
+#![alt text](https://github.com/solnavss/GenomicaFC_2021-2/blob/main/img_mdayhoff.jpeg)
 
 **Principales aportaciones en el campo de la bioinformática:**
 
