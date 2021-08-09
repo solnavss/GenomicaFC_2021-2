@@ -17,8 +17,4 @@ Margaret Oakley Dayhoff nació el 11 de marzo de 1925. Estudió su doctorado en 
 
 [Google Classroom](https://classroom.google.com/)
 
-*Marisol NM*
-
-*Genómica Computacional 2021-2*
-
-*Agosto 2021*
+[*Marisol NM*](https://github.com/solnavss), *Genómica Computacional 2021-2*, *Agosto 2021*
