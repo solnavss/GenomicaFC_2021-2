@@ -5,7 +5,8 @@ Margaret Oakley Dayhoff nació el 11 de marzo de 1925. Estudió su doctorado en 
 
 ![alt text](https://github.com/solnavss/GenomicaFC_2021-2/blob/main/img_mdayhoff.jpeg)
 
-* Fue pionera en el campo de la bioinformática
+**Principales aportaciones en el campo de la bioinformática:**
+
 * Colaboró en el desarrollo de una de las primeras matrices de sustitución (PAM-Percent Accepted Mutation)
 * Elaboró el Atlas of Protein Sequence and Structure
 * Desarrolló el código de una letra que se usa para designar a los aminoácidos
