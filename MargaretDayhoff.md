@@ -7,8 +7,6 @@ Margaret Oakley Dayhoff nació el 11 de marzo de 1925. Estudió su doctorado en 
   <img src="https://github.com/solnavss/GenomicaFC_2021-2/blob/main/img_mdayhoff.jpeg" alt="mdayhoff"/>
 </p>
 
-#![alt text](https://github.com/solnavss/GenomicaFC_2021-2/blob/main/img_mdayhoff.jpeg)
-
 **Principales aportaciones en el campo de la bioinformática:**
 
 * Colaboró en el desarrollo de una de las primeras matrices de sustitución (PAM-Percent Accepted Mutation)
