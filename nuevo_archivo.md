@@ -6,4 +6,6 @@
 
 - creo que es con menos
 
+_ no sé si va a funcionar 
+
 + con más
